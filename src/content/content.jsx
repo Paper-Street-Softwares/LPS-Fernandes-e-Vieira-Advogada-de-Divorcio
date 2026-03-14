@@ -122,16 +122,18 @@ const content = {
       ctaButtonTextResponsive: "Contato",
     },
     hero: {
-      miniTag: "ADVOGADA ESPECIALISTA EM DIVÓRCIO",
-      FirstPart: <span>Advogada para</span>,
+      miniTag: "ADVOGADA PARA DIVÓRCIO",
+      FirstPart: <span>Resolva seu</span>,
       Destaque: (
-        <span className="relative italic font-light destaque">cuidar</span>
+        <span className="relative italic font-light destaque">Divórcio</span>
       ),
-      SecondPart: <span>do seu Divórcio</span>,
+      SecondPart: (
+        <span>de forma segura com o auxílio de uma Advogada Especialista</span>
+      ),
       subtitle: (
         <p>
-          Orientação jurídica especializada para conduzir seu divórcio com
-          segurança, cuidando da divisão de bens, guarda e pensão.
+          Pare de lidar sozinho(a) com as dúvidas e tenha um Advogada com
+          experiência e capacitação cuidando de todo o processo para você.
         </p>
       ),
       heroDefaultImage: heroDefaultImg, // img da pessoa mobile
@@ -140,13 +142,13 @@ const content = {
       alt: "Imagem ilustrativa da Seção Início",
       ctaButtonAriaLabel:
         "Botão para chamada de ação para contato pelo whatsapp",
-      ctaButtonText: "Quero falar com a Advogada agora",
+      ctaButtonText: "Quero falar com o Advogada agora",
       ctaButtonTextSecondary: "A_Definir",
       obsHero: {
         icon: <LucideIdCard />,
         iconTwo: <LucideIdCard />,
         text: "Foco em fazer o melhor acordo para você não sair perdendo.",
-        textTwo: "Processo 100% Online, sem burocracias desnecessárias.",
+        textTwo: "Processo conduzido para ser rápido e evitar conflitos.",
       },
       secondaryCta: "Contato",
       images: {
