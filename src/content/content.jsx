@@ -132,7 +132,7 @@ const content = {
       ),
       subtitle: (
         <p>
-          Pare de lidar sozinho(a) com as dúvidas e tenha um Advogada com
+          Pare de lidar sozinho(a) com as dúvidas e tenha uma Advogada com
           experiência e capacitação cuidando de todo o processo para você.
         </p>
       ),
@@ -142,7 +142,7 @@ const content = {
       alt: "Imagem ilustrativa da Seção Início",
       ctaButtonAriaLabel:
         "Botão para chamada de ação para contato pelo whatsapp",
-      ctaButtonText: "Quero falar com o Advogada agora",
+      ctaButtonText: "Falar com Advogada agora",
       ctaButtonTextSecondary: "A_Definir",
       obsHero: {
         icon: <LucideIdCard />,
